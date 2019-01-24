@@ -2,7 +2,7 @@ package JavaPractice;
 
 public class ReversingAnArray {
 public static void main(String args[]) {
-int a[]= {12,54,36,85,69,74,25,20};
+int a[]= {12,54,36,85,69,74,25,20,33};
 int s=a.length;
 int c;
 for(int i=0;i<s/2;i++) {
